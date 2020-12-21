@@ -567,3 +567,4 @@ config.toml
 AppSettings.toml
 **.toml
 bookmarks*.json
+*.exe

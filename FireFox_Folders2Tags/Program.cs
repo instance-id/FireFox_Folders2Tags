@@ -48,7 +48,7 @@ namespace instance.id.FTC
 
             if (sortedFile == null || !sortedFile.Exists)
             {
-                Console.WriteLine("Error: File not found. Please check location and try again");
+                Console.WriteLine("File not found. Please either specify a FireFox bookmark.json file or containing folder and try again");
                 return;
             }
 
